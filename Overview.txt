@@ -1,0 +1,6 @@
+Task1:Vehicle
+1>vehicle chesis assembly : DONE
+2>L298N connection : DONE
+3>WEB connectivity and run : DONE
+
+Task2:Arducam
